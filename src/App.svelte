@@ -1,7 +1,7 @@
 <script>
-	var formatter = new Intl.NumberFormat("en-US", {
+	var formatter = new Intl.NumberFormat("en-IN", {
 		style: "currency",
-		currency: "USD"
+		currency: "INR"
 	})
 
 	let loanAmount = 200000;
